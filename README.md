@@ -4,9 +4,6 @@ A page of poems filled with feels, *charot.*
 ## Touch
 ![Touch](screenshots/touch.png)
 
-## Touch
-![Touch](screenshots/touch.png)
-
 ## Suicidal
 ![Suicidal](screenshots/suicidal.png)
 
