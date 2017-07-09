@@ -1,0 +1,138 @@
+body
+{
+	background-image: url("Images/birds.jpg");
+}
+
+#header
+{
+	text-align: center;
+	padding-top: 10px;
+}
+
+#about
+{
+	background-color: #FFF;
+	width: 560px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#paragraph
+{
+	padding-top: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+	font-family: "FuturaHandwritten";
+}
+
+#touch
+{
+	text-align: center;
+	background-color: #FFF;
+	width: 560px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.H_touch
+{
+	text-align: center;
+	font-family: "Stackyard PERSONAL USE";
+}
+
+#touch_par
+{
+	text-align: center;
+	font-family: "FuturaHandwritten";
+}
+
+#suicidal
+{
+	text-align: center;
+	background-color: #FFF;
+	width: 560px;
+	height: 575px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.H_suicidal
+{
+	text-align: center;
+	font-family: "Stackyard PERSONAL USE";
+}
+
+#suicidal_par
+{
+	text-align: center;
+	font-family: "FuturaHandwritten";
+}
+
+#time
+{
+	text-align: center;
+	background-color: #FFF;
+	width: 560px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.H_time
+{
+	text-align: center;
+	font-family: "Stackyard PERSONAL USE";
+}
+
+#time_par
+{
+	text-align: center;
+	font-family: "FuturaHandwritten";
+}
+
+#shame
+{
+	text-align: center;
+	background-color: #FFF;
+	width: 560px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.H_shame
+{
+	text-align: center;
+	font-family: "Stackyard PERSONAL USE";
+}
+
+#shame_par
+{
+	text-align: center;
+	font-family: "FuturaHandwritten";
+}
+
+#existence
+{
+	text-align: center;
+	background-color: #FFF;
+	width: 560px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.H_existence
+{
+	text-align: center;
+	font-family: "Stackyard PERSONAL USE";
+}
+
+#existence_par
+{
+	text-align: center;
+	font-family: "FuturaHandwritten";
+}
